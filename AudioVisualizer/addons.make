@@ -1,0 +1,4 @@
+ofxAudioAnalyzer-master
+ofxAudioDecoder-master
+ofxGui
+ofxLibSpotify-master
